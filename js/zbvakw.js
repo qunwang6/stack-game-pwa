@@ -9,5 +9,5 @@
 	a.setAttribute('target','_blank');
 	a.innerHTML = icon;
     
- 	document.body.appendChild(a);
+ 	// document.body.appendChild(a);
 })();
